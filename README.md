@@ -1,1 +1,1 @@
-https://vetlabalex.github.io/rsschool-cv/cv
+https://vetlabalex.github.io/rsschool-cv/
