@@ -1,6 +1,7 @@
 <img src="https://scontent-fra3-1.cdninstagram.com/v/t51.2885-19/495749207_18297678574300766_2506491838630259142_n.jpg?_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGUGB1PFzBBcmeQ7vAM9l0ZUjyOxbfhkr1Rqurufnw9IAP3RrV0-CK0ZZgh8fvHAXg&_nc_ohc=N9_-Uq-msoAQ7kNvwGN_HQ-&_nc_gid=4p03l8yBvWrikDSUNFo35A&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfRJYh1IPkvBTs7hvuipejAcsndQMaHd6eG2b2lYXAtneQ&oe=68772403&_nc_sid=7a9f4b" 
-     alt="Круглое изображение" 
+     alt="round image" 
      style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+     
 # **Alexander Sverzh**
 #### *Junior Frontend Developer*
 ---
@@ -10,6 +11,7 @@
 * #### **Instagram:** @vetlab_alex
 ---
 ## **About myself:**
+
 I am a former veterinarian.
 
 Previously, I worked in several laboratories and provided diagnostics of various diseases in animals. 
